@@ -1,0 +1,22 @@
+dateModified: 1642112670
+email:
+  fromEmail: accalton@gmail.com
+  fromName: 'AWS Test'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    74588e3b-c8de-491a-ab11-bc7cb3fb4381: 'AWS Test' # AWS Test
+    aa83b2de-08a9-4281-bf10-5371efc3f5b7: Common # Common
+    df088860-fb28-4df5-9ca5-904291e6c83f: 'AWS Test' # AWS Test
+system:
+  edition: solo
+  live: true
+  name: 'AWS Test'
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
