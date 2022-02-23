@@ -1,4 +1,4 @@
-dateModified: 1645637927
+dateModified: 1645638725
 email:
   fromEmail: accalton@gmail.com
   fromName: 'AWS Test'
@@ -24,6 +24,10 @@ plugins:
     edition: standard
     enabled: true
     schemaVersion: 2.3.0
+  scout:
+    edition: standard
+    enabled: true
+    schemaVersion: 0.1.0
 system:
   edition: pro
   live: true
