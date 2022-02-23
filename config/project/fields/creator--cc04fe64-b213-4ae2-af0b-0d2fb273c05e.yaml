@@ -1,0 +1,19 @@
+columnSuffix: vyakmxtz
+contentColumnType: text
+fieldGroup: b57fdb26-b94e-47c6-84a7-1146b0dbc70b # Comics
+handle: creator
+instructions: ''
+name: Creator
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

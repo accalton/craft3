@@ -1,18 +1,34 @@
-dateModified: 1642112670
+dateModified: 1645637927
 email:
   fromEmail: accalton@gmail.com
   fromName: 'AWS Test'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
+    67559de4-e5b8-4868-a9a8-8683ecdfd11e: 'Rich Text' # Rich Text
     74588e3b-c8de-491a-ab11-bc7cb3fb4381: 'AWS Test' # AWS Test
+    76512a8e-6c58-45c7-92e1-f0e88f759ed4: 'External URL' # External URL
+    711966de-2852-45ed-9ce9-ef83d4c70ceb: 'Publisher ID' # Publisher ID
     aa83b2de-08a9-4281-bf10-5371efc3f5b7: Common # Common
+    b57fdb26-b94e-47c6-84a7-1146b0dbc70b: Comics # Comics
+    cc04fe64-b213-4ae2-af0b-0d2fb273c05e: Creator # Creator
     df088860-fb28-4df5-9ca5-904291e6c83f: 'AWS Test' # AWS Test
+    e8aefc5d-0ad8-4aac-9bc1-301e8c74c19e: Default # Default
+    f1bf9650-3d03-4a8e-8b34-808cd066fef1: 'Publication Date' # Publication Date
+plugins:
+  feed-me:
+    edition: standard
+    enabled: true
+    schemaVersion: 4.4.0
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
 system:
-  edition: solo
+  edition: pro
   live: true
   name: 'AWS Test'
-  schemaVersion: 3.7.8
+  schemaVersion: 3.7.33
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false

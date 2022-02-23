@@ -1,0 +1,17 @@
+columnSuffix: utweoycz
+contentColumnType: datetime
+fieldGroup: b57fdb26-b94e-47c6-84a7-1146b0dbc70b # Comics
+handle: publicationDate
+instructions: ''
+name: 'Publication Date'
+searchable: false
+settings:
+  max: null
+  min: null
+  minuteIncrement: '30'
+  showDate: true
+  showTime: false
+  showTimeZone: false
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Date

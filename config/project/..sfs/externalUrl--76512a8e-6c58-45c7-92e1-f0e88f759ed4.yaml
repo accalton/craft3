@@ -1,0 +1,15 @@
+columnSuffix: wssgrmyt
+contentColumnType: string(255)
+fieldGroup: aa83b2de-08a9-4281-bf10-5371efc3f5b7 # Common
+handle: externalUrl
+instructions: ''
+name: 'External URL'
+searchable: false
+settings:
+  maxLength: '255'
+  placeholder: null
+  types:
+    - url
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Url

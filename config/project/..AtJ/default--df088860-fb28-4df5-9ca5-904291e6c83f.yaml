@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'AWS Test'
+primary: true
+siteGroup: 74588e3b-c8de-491a-ab11-bc7cb3fb4381 # AWS Test
+sortOrder: 1
